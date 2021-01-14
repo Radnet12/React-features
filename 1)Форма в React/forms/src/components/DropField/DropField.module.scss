@@ -1,0 +1,15 @@
+.drop__field {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e6e6e6;
+    width: 100%;
+    height: 71px;
+    margin-top: 15px;
+    border: 1px dashed #000;
+    cursor: pointer;
+
+    P {
+        padding-top: 0;
+    }
+}

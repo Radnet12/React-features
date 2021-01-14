@@ -39,6 +39,11 @@ input {
         transition: box-shadow 0.5s, border 0.5s;
     }
 }
+input[type="checkbox"] {
+    margin-top: 0;
+    margin-right: 10px;
+    width: auto;
+}
 label {
     font-size: 18px;
 }
