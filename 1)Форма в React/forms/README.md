@@ -1,7 +1,7 @@
 # React-features
 
 ### React-form
-What plugins i used for this form:
+Plugins that was used:
 - react-hook-form
 - yup
 - react-dropzone
