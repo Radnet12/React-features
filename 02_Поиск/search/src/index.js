@@ -1,9 +1,10 @@
 // Core
 import React from 'react';
 import ReactDOM from 'react-dom';
+import {Search} from './Search';
 
 ReactDOM.render(
-    <h1>Проект готов к началу воркшопа!</h1>,
+    <Search/>,
     document.getElementById('root'),
 );
 
